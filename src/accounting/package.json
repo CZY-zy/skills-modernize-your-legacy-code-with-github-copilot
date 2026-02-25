@@ -1,0 +1,12 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js version of COBOL account management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
